@@ -1,1 +1,1 @@
-Sitemap: https://pydealist.org/sitemap.xml
+Sitemap: https://pydealist.org/blog/sitemap.xml
