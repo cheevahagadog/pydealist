@@ -1,1 +1,1 @@
-Sitemap: https://cheevahagadog.github.io/pydealist/sitemap.xml
+Sitemap: https://pydealist.org/pydealist.org/sitemap.xml
